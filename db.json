@@ -3,3 +3,13 @@
       "user": "Diana"
       "pass": "miau"
     }
+
+{
+ "users": [{
+   "name": "Diana",
+   "password": "miau"
+ }, {
+   "name": "Bogdan",
+   "password": "miau2"
+ }]
+}
